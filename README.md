@@ -17,7 +17,7 @@
 
 - E-mail
 
-  Binling1104@gmail.com
-  wbeamguo@foxmail.com
+  - Binling1104@gmail.com
+  - wbeamguo@foxmail.com
 
   
